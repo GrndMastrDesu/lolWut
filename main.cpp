@@ -24,8 +24,8 @@ FEHEncoder  rightEncoder( FEHIO::P0_1);
 AnalogInputPin CDS(FEHIO::P0_7);
 
 AnalogInputPin optoLeft(FEHIO::P2_0);
-AnalogInputPin optoMid(FEHIO::P2_1);
-AnalogInputPin optoRight(FEHIO::P2_2);
+AnalogInputPin optoMid(FEHIO::P2_2);
+AnalogInputPin optoRight(FEHIO::P2_4);
 
 
 
